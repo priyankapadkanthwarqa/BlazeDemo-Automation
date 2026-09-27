@@ -1,0 +1,11 @@
+<suite name="BlazeDemo Suite">
+    <test name="BlazeDemo Automation Tests">
+        <classes>
+          
+            <class name="PagesofBlazeDemo.HomePage"/> 
+            
+  
+            <class name="PagesofBlazeDemo.FlightSelection"/>
+        </classes>
+    </test>
+</suite>
